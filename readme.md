@@ -1,9 +1,10 @@
-# Hi, this is Harsh
-### I am currently trying to learn Python.
-Do I know much? Nope. Am I trying anyway? Yup.
+# Hi, this is Harsh  
 
-I get stuck a lot, sometimes I even wonder if my code is just laughing at me haha.... but I keep going.
+### I am currently trying to learn Python.  
+Do I know much? **Nope.**  
+Am I trying anyway? **Yup.**  
 
-And when I need a push, I remind myself of this little gem:
-- https://youtube.com/shorts/nOxYZCMX1r4?si=6eyAjTzu7NV23xd7
+I get stuck a lot — sometimes I even wonder if my code is just laughing at me 😅... but I keep going.  
 
+And when I need a push, I remind myself of this little gem:  
+[Watch here](https://youtube.com/shorts/nOxYZCMX1r4?si=6eyAjTzu7NV23xd7)
